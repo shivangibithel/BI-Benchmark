@@ -5,5 +5,4 @@
 ### 📁 Contents
 - `prompts/dataset/` – Prompt templates for dataset question generation and validation  
 - `prompts/evaluation/` – Prompt templates for evaluation
-- `dataset/` – Benchmark questions with metadata  
-- 
+- `dataset/` – Benchmark questions with metadata 
